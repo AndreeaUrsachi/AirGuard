@@ -23,8 +23,8 @@ The second dataset consists of real-time sensor data collected and processed by 
 
 Together, these datasets enable the ML models to deliver accurate and personalized forecasts for air pollution levels.
 
-![front1](https://github.com/user-attachments/assets/c67ad37e-6256-4c2c-9e0b-8a19286babbe)
-![front2](https://github.com/user-attachments/assets/5e5484a4-dc1e-4d93-a3d4-f8072aa0e33e)
-<img width="2098" height="3006" alt="predictii1" src="https://github.com/user-attachments/assets/2e859237-e415-4b82-a80a-6cf21949dd95" />
-<img width="986" height="850" alt="predictii2" src="https://github.com/user-attachments/assets/e01fb2b0-cbdc-402a-8cae-61a593bdb9c6" />
-![quiz1](https://github.com/user-attachments/assets/0e7055af-7bf1-4d42-b40a-35f7c5c6a121)
+![front1](https://github.com/user-attachments/assets/086da0d9-e4cd-475e-b70e-e3f8d252054d)
+![front2](https://github.com/user-attachments/assets/0976f6fc-6de5-432b-9ccc-1da3ae8637fa)
+<img width="2098" height="3006" alt="predictii1" src="https://github.com/user-attachments/assets/c161d6e4-ea59-43d9-a28f-a69dee2137a8" />
+<img width="986" height="850" alt="predictii2" src="https://github.com/user-attachments/assets/9585bf1b-58b8-4457-804f-538823d3c67c" />
+![quiz1](https://github.com/user-attachments/assets/de304e0e-0a6a-419a-adc7-ef5b7cd3eaa0)
